@@ -15,7 +15,7 @@ void printMonsterSummary(Monster *m)
 }
 int main(void)
 {
-  Monster suzaku = {"朱雀", 100, 80};
+  Monster suzaku = {"朱雀", 100, 90};
 
   printMonsterSummary(&suzaku);
   return 0;
